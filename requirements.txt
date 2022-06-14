@@ -112,8 +112,6 @@ ssh-import-id==5.10
 systemd-python==234
 testresources==2.0.1
 
-
-ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.9
 usb-creator==0.3.7
