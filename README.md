@@ -2,19 +2,21 @@
 
 ### TUZO-AWWARDS
 
-### By Joylene Kirui
+# By Joylene Kirui
 
-### Description
-This is an application that allows users to post a project they  have created to for reviewby other users.
+## Description
+This is an application that allows users to post a project they have created for reviewby other users.
 
-### Preview
+## Preview
 ![](AWWARD.png)
+## Live Link
+https://tuzo-awwards.herokuapp.com/
 
-# Setup and installation requirements
+## Setup and installation requirements
 * `Virtual environment`
 * `pip install -r requirements.txt`
 
-# Technologies used
+## Technologies used
 * `Python`
 * `Django`
 * `HTML`
