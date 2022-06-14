@@ -1,8 +1,8 @@
 
 
-### TUZO-AWWARDS
+## TUZO-AWWARDS
 
-# By Joylene Kirui
+## By Joylene Kirui
 
 ## Description
 This is an application that allows users to post a project they have created for review by other users.
