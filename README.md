@@ -21,7 +21,7 @@ This is an application that allows users to post a project they  have created to
 * `CSS`
 * `JAVASCRIPT`
 
-### [![MIT license]
+##[MIT license]
 MIT License
 
 Copyright (c) 2022 Joylene Kirui
