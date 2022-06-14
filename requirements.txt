@@ -41,7 +41,6 @@ django-tinymce==3.4.0
 djangorestframework==3.11.0
 dnspython==2.2.1
 dominate==2.6.0
-duplicity==0.8.12.0
 email-validator==1.2.1
 entrypoints==0.3
 fasteners==0.14.1
